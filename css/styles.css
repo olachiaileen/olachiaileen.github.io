@@ -56,3 +56,6 @@ input[type=submit]{
 .grey{
     background-color: gray;
 }
+#sizePicker{
+font-weight: bold;
+}
